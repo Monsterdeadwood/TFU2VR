@@ -2,7 +2,9 @@
 > **[TEST BUILDS & DISCUSSION · FLAT2VR DISCORD](https://discord.gg/P4q9zt7ek)**
 > Testing, build requests, feedback and discussion happen in the **Flat2VR Modding Discord**. Join the server and find the **The Force Unleashed II** thread.
 
-![Star Wars: The Force Unleashed II VR — Monsterdeadwood VR mods](assets/vr-banner.svg)
+<p align="center">
+  <img src="assets/vr-banner.png" alt="Star Wars: The Force Unleashed II VR — VR" width="500">
+</p>
 
 # Star Wars: The Force Unleashed II VR
 
