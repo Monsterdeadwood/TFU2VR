@@ -10,6 +10,15 @@ Reviewed **15 November 2026**. Documented branch: **OpenXR R47 test package**.
 - A tester previously reported Virtual Desktop working on GOG. R47 visuals and audio still need physical-headset testing.
 - The R47 archive passed its launcher check after fresh extraction. R46 is the rollback package.
 
+## Follow-up tests reviewed 16 November 2026
+
+R48 extended prepared-arm cuts to native damaging swings against a live target. R49 exercised lifting an original hostile Stormtrooper, holding through saber hit-stop, original release and riding a held crate in two GOG scenes with XR Sim. The original Quit route exited cleanly. R47 remains the earlier test package described above.
+
+Verification records used for this section
+
+- `TFU2_OPENXR_R49/README.txt`
+- `TFU2_OPENXR_R49/evidence/VERIFICATION_R49.json`
+
 ## Current limits
 
 - The tested game-code path is GOG. The supplied Steam EXE is recognized under guarded checks, but real licensed Steam startup and dependency compatibility still require a tester run.

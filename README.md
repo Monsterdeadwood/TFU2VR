@@ -14,7 +14,7 @@
 
 Bring Star Wars: The Force Unleashed II into VR with tracked lightsabers, independent hand telekinesis and controller-driven Force powers. R47 fixes how the mod uses blade contact for the game’s original cut joints and keeps impact effects consistent across both eyes.
 
-**Current documented branch: OpenXR R47 test package.**
+**Package baseline on this page: OpenXR R47 test package.**
 
 ## Installation
 
@@ -55,6 +55,12 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 The complete package control sheet takes precedence for its version and interaction profile.
 
 </details>
+
+## Features in newer test builds
+
+- **A saber can cut an arm during combat.** In R48, a damaging swing could sever the nearest intact prepared arm while the enemy was still alive. Head and leg cuts use the supported joints after the game's own death event.
+- **Hold an enemy with one hand and fight with the other.** In R49, Grip lifted an original hostile Stormtrooper. The same grip survived the brief pause after a saber hit. In a separate test, a gripped crate kept supporting the player through that pause.
+- The R49 checks used the GOG game with XR Sim in Cato Neimoidia and Dagobah. Physical-headset testing remains open.
 
 ## Current status
 
