@@ -12,17 +12,16 @@
 
 ![Project status](assets/vr-status.svg)
 
-Bring Star Wars: The Force Unleashed II into VR with tracked lightsabers, independent hand telekinesis and controller-driven Force powers. R44 combines five blade forms, editable grip alignment, native enemy-response tuning and a tested opening-Kamino VR path.
+Bring Star Wars: The Force Unleashed II into VR with tracked lightsabers, independent hand telekinesis and controller-driven Force powers. R47 fixes how the mod uses blade contact for the game’s original cut joints and keeps impact effects consistent across both eyes.
 
-**Current documented branch: OpenXR R44.**
+**Current documented branch: OpenXR R47 test package.**
 
 ## Installation
 
-1. Get the complete **TFU2_OPENXR_R44** test package in the The Force Unleashed II thread on Flat2VR. Keep your supported PC game installed separately.
-2. Extract the archive as one complete folder. Open **TFU2_OPENXR_R44** and run **RUN.bat**.
-3. Connect your PC VR headset and select its active OpenXR runtime. R44 uses that runtime; a Meta runtime is not required.
-4. If the game is not detected, set **game_directory** in **app/settings.json** to your game folder. For the supplied Steam EXE path, start Steam before RUN.bat and read the compatibility limits below.
-5. Keep the launcher open. After testing, share the support-archive path printed in the console in the Flat2VR thread, with your headset, runtime, game edition and the scene involved.
+1. Ask for **TFU2_OPENXR_R47** in the **The Force Unleashed II** thread on Flat2VR. Install the supported PC game separately.
+2. Extract the complete **TFU2_OPENXR_R47** folder. Connect your headset, select the active OpenXR runtime in your PC VR software, then run **RUN.bat** from that folder.
+3. If the game is not detected, set **game_directory** in **app/settings.json** to your game folder. For the Steam test path, start Steam before RUN.bat and read the compatibility limits below.
+4. Keep the launcher open. For a Flat2VR report, include the headset, XR runtime, game edition and scene. Attach the text-only TELEMETRY ZIP if created, or include the console error if the game fails to start.
 
 Current test-package availability is coordinated in Discord. Use the complete package for your supported game build; this project page is separate from a release download.
 
@@ -34,6 +33,7 @@ Current test-package availability is coordinated in Discord. Use the complete pa
 - Per-hand lightning, shared Force input and a tested way to ride your own held support.
 - Editable left/right grip position and rotation, with shared alignment for the palm, hilt, blade and contact.
 - Tuned original enemy reactions while retaining stock damage and crystal actions.
+- Both blades can sever the game’s prepared enemy parts at supported joints. R47 uses the actual blade pose at impact to select the joint and cut plane.
 - A curved screen for menus and movies, controller menu input and updated native audio routing.
 
 <details>
@@ -58,11 +58,11 @@ The complete package control sheet takes precedence for its version and interact
 
 ## Current status
 
-**Experimental preview.** R44 checks used the actual supported game with XR Sim and two rendered eyes. Recorded cases cover blade rendering, native enemy reactions, nonzero grip calibration, held-platform movement and audio API routing, with save/configuration restoration after the checked runs.
+**Experimental preview.** R47 tests in the game with XR Sim covered cuts with either controller, the five prepared Stormtrooper parts, physical separation, world-space impact effects in both eyes and recovery after hit-stop.
 
 - The tested game-code path is GOG. The supplied Steam EXE is recognized under guarded checks, but real licensed Steam startup and dependency compatibility still require a tester run.
-- RND_1 (opening Kamino), DAG_1 and REB_1 have supported paths; the whole campaign is not qualified. The package documents a test launch with -noSaving.
-- Physical Air Link audio, headset comfort/weight perception and broad controller coverage remain open. R44 makes no general FPS-improvement claim.
+- R45 tested entry into all nine default campaign worlds and completed the ship-crash QTE. Full campaign and boss playthroughs still need testing. The launcher runs with -noSaving.
+- Physical Air Link audio, headset comfort and controller coverage still need testing.
 
 [Detailed status and validation scope](docs/PROJECT_STATUS.md)
 
@@ -106,4 +106,4 @@ Private repository links are available to invited collaborators. Public project 
 
 Project maintained by [Monsterdeadwood](https://github.com/Monsterdeadwood). This is an independent fan VR project; you need your own supported copy of the original game.
 
-Documentation reviewed: **14 November 2026**.
+Documentation reviewed: **15 November 2026**.
