@@ -1,5 +1,5 @@
 name: VR feedback
-description: Report a reproducible issue with Star Wars: The Force Unleashed II VR
+description: "Report a reproducible issue with Star Wars: The Force Unleashed II VR"
 title: "[VR] "
 body:
   - type: markdown
