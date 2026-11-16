@@ -38,11 +38,3 @@ This overview was reconciled against the project’s recorded package notes and 
 - `TFU2_OPENXR_R47_RECEIPT.json`
 
 Game execution, simulator validation and physical-headset feedback are reported separately above. Features from a separate experimental branch are identified explicitly.
-
-## Кратко по-русски
-
-VR-мод Star Wars: The Force Unleashed II со световыми мечами от контроллеров, независимым телекинезом рук и управлением Силой. R47 точнее привязывает отсечение к касанию клинка и синхронизирует эффекты попадания между глазами.
-
-- Проверенный игровой код — GOG. Присланный Steam EXE распознаётся с защитными проверками, но настоящий лицензионный Steam-запуск и совместимость его зависимостей ещё требуют теста.
-- В R45 проверены вход во все девять штатных миров кампании и QTE при крушении корабля. Полное прохождение кампании и боссов ещё предстоит проверить. Лаунчер запускает игру с -noSaving.
-- Звук через Air Link, удобство в шлеме и работа разных контроллеров ещё требуют проверки.
