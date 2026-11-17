@@ -1,9 +1,9 @@
 > [!IMPORTANT]
 > **TEST BUILDS & DISCUSSION**
 >
-> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)**
+> **[Join the Flat2VR Discord](https://discord.gg/P4q9zt7ek)** · **[Open the Force Unleashed II thread](https://discord.com/channels/747967102895390741/1569880803389874196)**
 >
-> Ask for the matching test build and share feedback in the **The Force Unleashed II VR** discussion.
+> Download the latest test build from the thread and share your results there.
 
 <p align="center">
   <img src="assets/vr-banner.png" alt="Star Wars: The Force Unleashed II VR" width="500">
@@ -11,7 +11,7 @@
 
 ## INSTALLATION
 
-1. Install the supported **GOG PC version** and get the **TFU2_OPENXR_R47** test package.
+1. Install the supported **GOG PC version** and get the **TFU2_OPENXR_R53** test package.
 2. Extract the complete mod into its own folder.
 3. Connect PC VR, select your OpenXR runtime, and run **`RUN.bat`**. If needed, set `game_directory` in `app/settings.json`.
 
@@ -29,6 +29,6 @@ Reach to pull a prop or enemy, turn your wrist to rotate it, and release with a 
 
 Use controller-directed lightning and switch between five blade forms.
 
-The GOG tests used XR Sim. The combined Grip and saber test is a newer candidate than R47.
+The GOG tests used XR Sim. The combined Grip and saber check was performed in R49.
 
 [Other VR mods](PORTFOLIO.md) · [Tester credits](TESTERS.md) · [Build details](docs/PROJECT_STATUS.md)
