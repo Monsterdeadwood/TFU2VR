@@ -14,8 +14,8 @@
 ## 📦 INSTALLATION
 
 1. Install **The Force Unleashed II** from GOG.
-2. Extract the complete mod into its own folder.
-3. Connect your PC VR headset, select your OpenXR runtime, and run **`RUN.bat`**. If the launcher needs the game path, set `game_directory` in `app/settings.json`.
+2. **Put the mod archive next to `SWTFU2.exe`.** Extract the whole archive there and keep the mod folder intact.
+3. Connect your PC VR headset, select your OpenXR runtime, and run **`RUN.bat`** from the extracted mod folder. If the launcher needs the game path, set `game_directory` in `app/settings.json`.
 
 <a name="features"></a>
 
