@@ -21,21 +21,25 @@
 
 ## ⚡ FEATURES
 
-### IGNITE OR SWITCH OFF EITHER SABER
+### ⚔️ Switch each lightsaber on or off on its own
 
-Hold a saber in each hand. Ignite or switch off either blade independently and swing both with motion controls.
+Hold one saber in each hand, ignite them independently and swing both with your controllers.
 
-### CUT OFF ENEMY LIMBS WITH A SABER SWING
+### 🗡️ Sever enemy limbs with a saber swing
 
-Sever an enemy’s arm or another supported body part where your saber strike lands.
+Swing through an enemy’s arm to cut it off. The blade can also sever other body parts at the point of impact.
 
-### FORCE GRIP, THROWS & LIGHTNING
+### 🌀 Hold an enemy with the Force and strike with your other hand
 
-Lift and rotate enemies or objects, then throw them with a gesture. Hold an enemy with the Force while striking with your other hand, or cast lightning from either hand.
+Lift, rotate or throw enemies and props with a gesture. Keep a Stormtrooper suspended with one hand while you swing your saber with the other.
 
-### RIDE A CRATE WITH THE FORCE
+### ⚡ Cast Force lightning from either hand
 
-Step onto a crate and lift it with the Force to ride it through the air.
+Point and use lightning with your left or right hand.
+
+### 🛸 Stand on a crate and fly with the Force
+
+Step onto a crate, lift it with the Force and ride it through the air.
 
 <a name="screenshots"></a>
 
@@ -54,13 +58,13 @@ Step onto a crate and lift it with the Force to ride it through the air.
 
 | VR mod | Highlights |
 | --- | --- |
-| [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Tracked item handling and hand contact with walls |
-| [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Body holsters, two-handed aiming, and changing campaign skies |
-| [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr) | Head-tracked driving with stereo boost and exhaust effects |
-| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Telekinesis, switchable weapon hands, and randomized weather and time of day |
-| [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Controller aiming and working optics in local bot matches |
-| [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Telekinesis, hand lightning, and object physics |
-| [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Tracked weapons and two-handed foregrip handling |
-| [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Randomized weather, day and night, and roomscale crouching |
-| [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Aim with the controller and look around a Titan cockpit |
-| [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Tracked weapons and melee with either hand |
+| [Alone in the Dark (2008) VR](https://github.com/Monsterdeadwood/AloneInTheDark2008VR) | Aim a light by hand, carry a chair, and throw bottles |
+| [Battlefield 3: VRevamp](https://github.com/Monsterdeadwood/Battlefield-3-VRevamp) | Pull dropped guns toward you, draw from body slots, and fight through changing weather |
+| [Burnout Paradise Remastered VR](https://github.com/Monsterdeadwood/BUrnOutPvr) | Pull the handbrake, hit boost, and look around while racing |
+| [Crysis 2: VRevamp](https://github.com/Monsterdeadwood/C2VR) | Hit enemies with your fists or weapon, throw them with telekinesis, and swap weapon hands |
+| [NOVA · CS:GO Legacy VR](https://github.com/Monsterdeadwood/CSGOVR) | Aim and feel recoil, take scoped shots, and buy gear from the controllers |
+| [Metro 2033 VR](https://github.com/Monsterdeadwood/Metro2033VR) | Lift an enemy, shock them with your hand, or bounce a glowing core down a tunnel |
+| [Rainbow Six Siege VR](https://github.com/Monsterdeadwood/SiegeVR) | Brace a rifle by its foregrip, drop prone and use gadgets |
+| [TimeShift VR](https://github.com/Monsterdeadwood/TimeShiftVR) | Punch or hit with your weapon, control time, and fight through changing weather |
+| [Titanfall 1 VR](https://github.com/Monsterdeadwood/Titanfall1VR) | Call and board a Titan, catch shots with Vortex, and eject |
+| [You Are Empty: Absolute Edition VR](https://github.com/Monsterdeadwood/YouAreEmptyAEVR) | Shoot with one hand, hit with either, and reach out against walls |
